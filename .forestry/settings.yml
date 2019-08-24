@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: poo
+  label: fart
+  match: "**/*"
+- type: document
   path: test
   label: test
 - type: heading
